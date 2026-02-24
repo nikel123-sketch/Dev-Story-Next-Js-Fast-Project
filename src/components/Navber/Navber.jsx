@@ -1,10 +1,11 @@
 
+import Link from 'next/link';
 import React from 'react';
 
 const Navber = () => {
     return (
       <div className="border-b-2  p-5 flex items-center justify-between">
-        <h2 className="font-bold text-2xl ">this is navber</h2>
+        <Link href={'/'} className="font-bold text-2xl ">Dev Story</Link>
 
         <nav
           className="font-semibold flex items-center gap-2 px-8 py-3 rounded-2xl
