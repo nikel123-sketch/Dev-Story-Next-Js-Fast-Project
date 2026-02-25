@@ -10,7 +10,7 @@ const DashbordLayout = ({ children }) => {
           Dev Story
         </Link>
         <hr />
-        <h1 className='font-bold text-3xl mt-2'>sidber</h1>
+        
         <div className="flex flex-col mt-5 gap-3">
           <Link
             className="w-full bg-sky-300 text-black font-bold "
