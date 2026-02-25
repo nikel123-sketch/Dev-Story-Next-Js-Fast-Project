@@ -2,8 +2,8 @@ import Title from '@/components/Title/Title';
 import React from 'react';
 
 const TutoriusPages = async({params}) => {
-    // const [app, getting, started] = await params.slag;
-    // console.log(result)
+  // console.log(result)
+  // const [app, getting, started] = await params.slag;
     
     const {slug}=await params;
     

@@ -6,11 +6,30 @@ const DashbordLayout = ({ children }) => {
   return (
     <div className="grid grid-cols-12 gap-3">
       <div className="col-span-3  border-r-1 min-h-screen">
-        <h1>sidber</h1>
-        <div className="flex flex-col mt-10 gap-3">
-           <Link className='w-full bg-sky-300 text-black font-bold '  href={'/Dasbord/Add-Story'}>Add Story</Link>
-           <Link className='w-full bg-sky-300 text-black font-bold ' href={'/Dasbord/MyProfile'}>My-Profile</Link>
-           <Link className='w-full bg-sky-300 text-black font-bold ' href={'/Dasbord/Setting'}>Setting</Link>
+        <Link href={"/"} className="font-bold text-2xl ">
+          Dev Story
+        </Link>
+        <hr />
+        <h1 className='font-bold text-3xl mt-2'>sidber</h1>
+        <div className="flex flex-col mt-5 gap-3">
+          <Link
+            className="w-full bg-sky-300 text-black font-bold "
+            href={"/Dasbord/Add-Story"}
+          >
+            Add Story
+          </Link>
+          <Link
+            className="w-full bg-sky-300 text-black font-bold "
+            href={"/Dasbord/MyProfile"}
+          >
+            My-Profile
+          </Link>
+          <Link
+            className="w-full bg-sky-300 text-black font-bold "
+            href={"/Dasbord/Setting"}
+          >
+            Setting
+          </Link>
         </div>
       </div>
 

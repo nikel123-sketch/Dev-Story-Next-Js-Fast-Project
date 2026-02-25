@@ -1,8 +1,12 @@
-
+'use client'
 import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 import React from 'react';
 
 const Navber = () => {
+  const pathname=usePathname();
+  console.log(pathname)
+  if(pathname.startsWith('/Dasbord')) return<></>
     return (
       <div className="border-b-2  p-5 flex items-center justify-between">
         <Link href={'/'} className="font-bold text-2xl ">Dev Story</Link>
