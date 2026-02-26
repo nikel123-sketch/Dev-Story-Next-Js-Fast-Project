@@ -26,7 +26,7 @@ export default function RootLayout({ children }) {
       >
         <Navber></Navber>
 
-        <main className="font-bold mt-6   text-center">
+        <main className="font-bold mt-5   text-center">
         {children}
         </main>
       </body>
