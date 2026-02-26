@@ -1,36 +1,84 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+🚀 Dev Story — Modern Next.js Web Application
 
-## Getting Started
+🌐 Live Demo
+Live Link: https://dev-story-kappa.vercel.app
 
-First, run the development server:
+Dev Story is a fast, modern, and scalable web application built using Next.js. This project focuses on clean architecture, high performance, and professional frontend development practices.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The application uses the App Router system to create structured pages such as Dashboard, Stories, Tutorials, Authentication, and nested routes. It is designed to be fully responsive, optimized for performance, and ready for production deployment.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🎯 Project Purpose
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+The goal of this project is to build a professional and scalable web platform using modern technologies. It demonstrates real-world development concepts such as:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Structured routing system
 
-## Learn More
+Reusable components
 
-To learn more about Next.js, take a look at the following resources:
+Nested and dynamic routes
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Loading and Not Found UI
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Clean and maintainable folder structure
 
-## Deploy on Vercel
+Production-ready architecture
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+⚙️ Built With
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Next.js — React Framework for production
+
+React — Component-based UI development
+
+Tailwind CSS — Modern and fast styling
+
+Node.js — Runtime environment
+
+✨ Key Features
+
+⚡ Fast and optimized performance
+
+📁 Professional folder structure
+
+🔗 Nested and dynamic routing
+
+🧩 Reusable component system
+
+📱 Fully responsive design
+
+🚀 Production-ready project setup
+
+👨‍💻 About the Developer
+
+This project was designed and developed by a passionate Frontend Developer focused on building fast, modern, and scalable web applications using the latest technologies.
+
+Developer: Md Nikel Ali
+Role: Frontend Developer (Next.js & React)
+
+💡 Skills
+
+Next.js Development
+
+React Development
+
+Modern Responsive UI Design
+
+Component-Based Architecture
+
+Routing and Nested Routing
+
+Professional Project Structure
+
+🎯 Focus
+
+Building modern web applications
+
+Creating fast and optimized UI
+
+Writing clean and maintainable code
+
+Developing production-ready projects
+
+🌐 Connect with Me
+
+Phone:01331530219
+
